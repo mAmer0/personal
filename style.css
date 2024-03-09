@@ -6,6 +6,10 @@ body {
     padding: 0;
 }
 
+#me{
+    margin:20px;
+}
+
 h1{
     font-family: 'Courier New', Courier, monospace;
 
